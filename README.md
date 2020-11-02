@@ -1,3 +1,4 @@
+this repo will contain the full process of making ML model that predicts the probability of having heart failure within 10 years period.
 *Task-1*
 
 Collecting heart patients’ numerical and categorical data and do some data analysis on it to compare between them and combine the perfect dataset to use to train the machine learning model .
